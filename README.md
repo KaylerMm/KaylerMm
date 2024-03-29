@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kayler Moura
 - 👀 I’m interested in tech, gaming and cars
 - 🌱 I’m currently an undergraduate student in Software Engineering at Pontiícia Universidade Católica de Minas Gerais
-- 💞️ I’m available for new job opportunities as a Python or Full Stack developer
+- 💞️ I’m available for new job opportunities as a Python, C#, Front-End or Full Stack developer
 - 📫 You can reach me at kaylermoura.km@gmail.com or via instagram at kayler.mm
