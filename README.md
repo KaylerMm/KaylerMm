@@ -4,9 +4,10 @@
 
 💻 I'm a passionate **Full Stack Developer** with hands-on experience in:
 
-- 🐍 **Python**
+- 🐍 **Python / Django**
+- ☕ **Java / Spring**
 - ⚙️ **C# / .NET**
-- 🐘 **PHP**
+- 🐘 **PHP / Laravel**
 - ⚛️ **JavaScript / React**
 
 🚀 I love building robust applications, exploring new technologies, and solving real-world problems through code.
